@@ -1,0 +1,37 @@
+@media screen and (max-width: 800px) {
+  #cloud1, #cloud2 {
+    width: 70vw;
+  }
+
+  #cloud2 {
+    right: 1%;
+  }
+
+  #textStart {
+    font-size: 1.2rem;
+  }
+
+  @keyframes cloud2move {
+    from {
+      right: 1%;
+      opacity: 1;
+    }
+    to {
+      display: none;
+      right: -65%;
+      opacity: 0;
+    }
+  }
+
+  @keyframes textStartGrow {
+    from {
+      opacity: 1;
+    }
+    to {
+      display: none;
+      width: 200%;
+      opacity: 0;
+      font-size: 15vw;
+    }
+  }
+}
