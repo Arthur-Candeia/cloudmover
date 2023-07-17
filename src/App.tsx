@@ -36,7 +36,7 @@ function App() {
           <img src="./banner/cloud1.jpg" alt="Cloudmover" id="bannerImg"/>
           <span>VAMOS <br />MELHORAR <br />O MUNDO</span>
         </section>
-        <a id='backToTop' href='#content'>⬆️</a>
+        <a id='backToTop' href='#content'>↑</a>
         <h2 id='whoWeAre'>Quem somos?</h2>
         <p>
           A CloudMover é uma startup inovadora que está revolucionando a forma como interagimos com as nuvens. Fundada por um grupo de potenciais Cientistas da Computação da Universidade Federal do Espírito que são apaixonados pela preservação e sustentabilidade ambiental, nossa empresa tem como objetivo combater a escassez de chuva em áreas secas e melhorar a distribuição equitativa de água no ambiente. Acreditamos que a água é um recurso vital e essencial para a vida, e é por isso que desenvolvemos uma tecnologia pioneira para fabricar e movimentar nuvens.

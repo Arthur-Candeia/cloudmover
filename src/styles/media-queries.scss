@@ -23,6 +23,12 @@
   }
 
   #content {
+
+    #backToTop {
+      width: 15px;
+      height: 15px;
+    }
+
     #banner {
       span {
         font-size: 5vw;
@@ -37,6 +43,10 @@
     p {
       width: 85vw;
       font-size: 1.5em;
+    }
+
+    #whatWeDoImg {
+      width: 85vw;
     }
 
     iframe {

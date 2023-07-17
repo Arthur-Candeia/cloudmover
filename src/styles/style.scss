@@ -80,9 +80,11 @@ header {
     position: fixed;
     display: flex;
     justify-content: center;
-    align-items: center;
     bottom: 50px;
     right: 50px;
+    width: 22px;
+    height: 22px;
+    font-size: 1rem;
     text-decoration: none;
     color: white;
     background-color: #00A6ED;
