@@ -22,6 +22,8 @@
   text-align: center;
   font-weight: bold;
   font-size: 36px;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.397);
   transform: translate(-50%, -50%);
   animation: textStartGrow 1.5s 3s forwards ease-in-out;
 }

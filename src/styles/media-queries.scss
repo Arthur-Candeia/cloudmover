@@ -13,7 +13,13 @@
   }
 
   #textStart {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+  }
+
+  header {
+    nav {
+      gap: 10px;
+    }
   }
 
   #content {
@@ -23,8 +29,19 @@
       }
     }
 
+    h2 {
+      font-size: 2.5em;
+      width: 85vw;
+    }
+
     p {
+      width: 85vw;
       font-size: 1.5em;
+    }
+
+    iframe {
+      width: 85vw;
+      height: 60vw;
     }
 
     #cards {
